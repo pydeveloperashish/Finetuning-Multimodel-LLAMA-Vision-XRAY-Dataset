@@ -26,7 +26,7 @@ def main():
     FastVisionModel.for_inference(model)
     
     # Load your image (replace 'your_image.jpg' with the path to your image)
-    image_path = "/content/image.jpg"  # Update this to your image path
+    image_path = "/sample-images/image.jpg"   # Update this to your image path
     if not os.path.exists(image_path):
         print(f"Image not found: {image_path}")
         print("Please update the image_path variable with your actual image path.")
