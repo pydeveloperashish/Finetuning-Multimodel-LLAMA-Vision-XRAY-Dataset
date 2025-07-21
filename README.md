@@ -1,3 +1,8 @@
+# Results:
+<img width="1876" height="903" alt="image" src="https://github.com/user-attachments/assets/e3f2d428-fa7b-479d-ba15-c7c7c5dad18a" />
+
+
+
 # LoRA Model Testing Script
 
 This repository contains a script to test a fine-tuned LoRA model for multimodal (vision-language) tasks.
