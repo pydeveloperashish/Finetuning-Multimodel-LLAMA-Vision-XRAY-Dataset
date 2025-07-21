@@ -1,0 +1,6 @@
+venv
+./venv
+.git
+.ipynb_checkpoints
+lora_model
+lora_model/*
