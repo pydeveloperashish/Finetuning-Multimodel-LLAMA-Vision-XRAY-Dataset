@@ -6,7 +6,7 @@ from PIL import Image
 
 def main():
     # Load the LoRA model from the local directory
-    model_path = "/content/drive/MyDrive/lora_model (4)/content/lora_model"
+    model_path =  "devashish07/Multiodel-Radiology-Finetuing-LLAMA-3.2-11B"
     
     # Load the model and tokenizer
     print("Loading model and tokenizer...")
